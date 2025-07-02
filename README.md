@@ -5,7 +5,7 @@
 > **"I didn't just learn to code; I rebuilt the wheel, one revolution at a time, discovering the joy of creation in every turn."**
 
 
-<img src="https://i.pinimg.com/originals/11/90/6e/11906efcef612c906131e71d01e9a3b7.gif" width="500" alt="Journey GIF" />
+<img src="https://i.pinimg.com/originals/43/b7/89/43b78950873532ad7b94d9ca89937993.gif" alt="Journey GIF" />
 
 </div>
 
