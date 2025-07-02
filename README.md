@@ -12,16 +12,16 @@ This repository is a collection of various projects, primarily focusing on web d
 
 | Project Name    | Link (in repo)                               | Clone of / Concept                               |
 | :-------------- | :------------------------------------------- | :----------------------------------------------- |
-| athardocs       | [athardocs](./athardocs)                     | Documentation Platform / Blog                    |
-| atharnews       | [atharnews](./atharnews)                     | News Aggregator / Blog                           |
-| ChatSphere      | [ChatSphere](./ChatSphere)                   | Real-time Chat Application                       |
+| athardocs       | [athardocs](./athardocs)                     | Documentation Platform / [google docs clone]     |
+| atharnews       | [atharnews](./atharnews)                     | News Aggregator / Blog   [inshort clone]         |
+| ChatSphere      | [ChatSphere](./ChatSphere)                   | Real-time Chat Application [whatsapp clone]      |
 | E-ShopSphere    | [E-ShopSphere](./E-ShopSphere)               | E-commerce Platform                              |
-| ElectroDrive    | [ElectroDrive](./ElectroDrive)               | Vehicle Rental / Booking Platform                |
+| ElectroDrive    | [ElectroDrive](./ElectroDrive)               | Vehicle Rental / Booking Platfor [tesla clone]   |
 | InstaConnect    | [InstaConnect](./InstaConnect)               | Social Media Platform (Instagram Clone)          |
-| mailflow        | [mailflow](./mailflow)                       | Email Automation / Management Tool               |
+| mailflow        | [mailflow](./mailflow)                       | Email Automation  [gmail clone]                  |
 | my-blog-website | [my-blog-website](./my-blog-website)         | Personal Blog Website                            |
 | my-crud-app     | [my-crud-app](./my-crud-app)                 | Generic CRUD Application                         |
-| ShareSphere     | [ShareSphere](./ShareSphere)                 | File Sharing / Collaboration Platform            |
+| ShareSphere     | [ShareSphere](./ShareSphere)                 | File Sharing Platform                            |
 | TaskFlow        | [TaskFlow](./TaskFlow)                       | Task Management / To-Do Application              |
 
 ---
@@ -42,4 +42,15 @@ This codebase primarily utilizes the following technologies:
 
 ---
 
-Made with ❤️ by Athar
+## 📜 License
+
+Released under the **MIT License** — free to use, modify, and distribute.  
+If you find this helpful, please ⭐ star the repo!
+
+---
+
+<div align="center">
+
+🚀 Made with ❤️ by [atharhive](https://github.com/atharhive)
+
+</div>
