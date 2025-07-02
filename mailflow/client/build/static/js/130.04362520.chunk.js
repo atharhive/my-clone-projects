@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmailflow_client=self.webpackChunkmailflow_client||[]).push([[130],{130:(e,l,a)=>{a.r(l),a.d(l,{default:()=>t});var r=a(6446),i=a(5865),s=a(3216),n=a(579);const t=()=>((0,s.r5)(),(0,n.jsx)(r.A,{style:{marginLeft:250},children:(0,n.jsx)(i.A,{variant:"h4",children:"There was error loading this page"})}))}}]);
+//# sourceMappingURL=130.04362520.chunk.js.map
