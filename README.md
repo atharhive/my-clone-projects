@@ -1,13 +1,17 @@
-<div align="center">
+<table>
+<tr>
+<td>
 
-# My Codebase: A Journey of Reinvention
+<img src="https://i.pinimg.com/originals/43/b7/89/43b78950873532ad7b94d9ca89937993.gif" width="420" alt="Journey GIF" />
 
-> **"I didn't just learn to code; I rebuilt the wheel, one revolution at a time, discovering the joy of creation in every turn."**
+</td>
+<td>
 
+<h3>"I learned by reinventing the wheel, again and again — each time understanding a little more about how it all turns."</h3>
 
-<img src="https://i.pinimg.com/originals/43/b7/89/43b78950873532ad7b94d9ca89937993.gif" alt="Journey GIF" />
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
