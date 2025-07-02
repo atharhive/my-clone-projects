@@ -2,7 +2,7 @@
 
 > "I didn't just learn to code; I rebuilt the wheel, one revolution at a time, discovering the joy of creation in every turn."
 
-![Placeholder GIF](https://via.placeholder.com/800x400?text=Awesome+Coding+Journey+GIF)
+![Placeholder GIF](https://i.pinimg.com/originals/11/90/6e/11906efcef612c906131e71d01e9a3b7.gif)
 
 ---
 
