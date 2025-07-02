@@ -1,12 +1,16 @@
+<div align="center">
+
 # My Codebase: A Journey of Reinvention
 
-> "I didn't just learn to code; I rebuilt the wheel, one revolution at a time, discovering the joy of creation in every turn."
+> **"I didn't just learn to code; I rebuilt the wheel, one revolution at a time, discovering the joy of creation in every turn."**
 
-![Placeholder GIF](https://i.pinimg.com/originals/11/90/6e/11906efcef612c906131e71d01e9a3b7.gif)
+<img src="https://i.pinimg.com/originals/11/90/6e/11906efcef612c906131e71d01e9a3b7.gif" width="500" alt="Journey GIF" />
+
+</div>
 
 ---
 
-## Projects Overview
+## 🚀 Projects Overview
 
 This repository is a collection of various projects, primarily focusing on web development. It showcases my journey in learning and building applications, often by re-implementing concepts and features to deepen my understanding. Each project represents a step in mastering different technologies and architectural patterns.
 
@@ -26,19 +30,19 @@ This repository is a collection of various projects, primarily focusing on web d
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-This codebase primarily utilizes the following technologies:
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+</div>
 
 ---
 
